@@ -1,0 +1,7 @@
+load 'tasks/trying.rake'
+
+desc "Done"
+task :done do
+
+  puts "Not bad"
+end
